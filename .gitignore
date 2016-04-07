@@ -1,0 +1,12 @@
+*.o
+*~
+*#*
+a.out
+*.tmp
+TAGS
+arcade
+lib_arcade_solarfox.so
+lib_arcade_snake.so
+lib/lib_arcade_OPENGL.so
+lib/lib_arcade_SFML.so
+lib/lib_arcade_ncurses.so
