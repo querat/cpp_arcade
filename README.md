@@ -2,7 +2,7 @@
 
 The goal of this project is to handle dynamic libraries on the fly in c++.
 
-It consists of 3 dynamic libraries interfacing graphical libs and 2 dynamic games linbs, all handled by a core program
+It consists of 3 dynamic graphical libraries (interfacing respectively OpenGL, SFML and ncurses) and 2 dynamic games libs, all handled by a core program.
 
 you'll need ncurses, opengl and SFML
 
